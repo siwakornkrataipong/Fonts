@@ -4,11 +4,11 @@
 
 @font-face {
     font-family: 'thaisans_neueregular';
-    src: url('https://github.com/siwakornkrataipong/Fonts/blob/master/thai-sans/thaisansneue-regular-webfont.eot?raw=true');
-    src: url('https://github.com/siwakornkrataipong/Fonts/blob/master/thai-sans/thaisansneue-regular-webfont.eot?raw=true#iefix') format('embedded-opentype'),
-         url('https://github.com/siwakornkrataipong/Fonts/blob/master/thai-sans/thaisansneue-regular-webfont.woff2?raw=true') format('woff2'),
-         url('https://github.com/siwakornkrataipong/Fonts/blob/master/thai-sans/thaisansneue-regular-webfont.woff?raw=true') format('woff'),
-         url('https://github.com/siwakornkrataipong/Fonts/blob/master/thai-sans/thaisansneue-regular-webfont.ttf?raw=true') format('truetype');
+    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/thai-sans/thaisansneue-regular-webfont.eot?raw=true');
+    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/thai-sans/thaisansneue-regular-webfont.eot?raw=true#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/thai-sans/thaisansneue-regular-webfont.woff2?raw=true') format('woff2'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/thai-sans/thaisansneue-regular-webfont.woff?raw=true') format('woff'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/thai-sans/thaisansneue-regular-webfont.ttf?raw=true') format('truetype');
     font-weight: normal;
     font-style: normal;
 
