@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'robotoregular';
-    src: url('roboto-regular-webfont.woff2') format('woff2'),
-         url('roboto-regular-webfont.woff') format('woff');
+    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/roboto/roboto-regular-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/roboto/roboto-regular-webfont.woff?raw=true') format('woff');
     font-weight: normal;
     font-style: normal;
 
