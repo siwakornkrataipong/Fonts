@@ -4,11 +4,11 @@
 
 @font-face {
     font-family: 'dsn_lardphraoregular';
-    src: url('dsnlp_-webfont.eot');
-    src: url('dsnlp_-webfont.eot?#iefix') format('embedded-opentype'),
-         url('dsnlp_-webfont.woff2') format('woff2'),
-         url('dsnlp_-webfont.woff') format('woff'),
-         url('dsnlp_-webfont.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.eot');
+    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.eot#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.woff') format('woff'),
+         url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
