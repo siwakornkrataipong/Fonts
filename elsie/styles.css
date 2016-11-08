@@ -1,8 +1,11 @@
 
 @font-face {
   font-family: 'ElsieBlack-Regular';
-  src: url('ElsieBlack-Regular.eot?#iefix') format('embedded-opentype'),  url('ElsieBlack-Regular.otf')  format('opentype'),
-	     url('ElsieBlack-Regular.woff') format('woff'), url('ElsieBlack-Regular.ttf')  format('truetype'), url('ElsieBlack-Regular.svg#ElsieBlack-Regular') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.eot#iefix') format('embedded-opentype'),  
+  		url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.otf')  format('opentype'),
+	     url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.woff') format('woff'), 
+		 url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.ttf')  format('truetype'), 
+		 url('ElsieBlack-Regular.svg#ElsieBlack-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
