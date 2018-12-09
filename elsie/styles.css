@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'ElsieBlack-Regular';
-  src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.eot#iefix') format('embedded-opentype'),  
+  src: url('https://cdn.jsdelivr.net/gh/siwakornkrataipong/Fonts@master/elsie/ElsieBlack-Regular.eot#iefix') format('embedded-opentype'),  
   		url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.otf')  format('opentype'),
 	     url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.woff') format('woff'), 
 		 url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/elsie/ElsieBlack-Regular.ttf')  format('truetype'), 

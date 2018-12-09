@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'kinnarimedium';
     src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/kinari/kinnari-webfont.eot');
-    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/kinari/kinnari-webfont.eot#iefix') format('embedded-opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/siwakornkrataipong/Fonts@master/kinari/kinnari-webfont.eot#iefix') format('embedded-opentype'),
          url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/kinari/kinnari-webfont.woff2') format('woff2'),
          url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/kinari/kinnari-webfont.woff') format('woff'),
          url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/kinari/kinnari-webfont.ttf') format('truetype');

@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'dsn_lardphraoregular';
     src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.eot');
-    src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.eot#iefix') format('embedded-opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/siwakornkrataipong/Fonts@master/dsn-lardphrao/dsnlp_-webfont.eot#iefix') format('embedded-opentype'),
          url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.woff2') format('woff2'),
          url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.woff') format('woff'),
          url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/dsn-lardphrao/dsnlp_-webfont.ttf') format('truetype');
