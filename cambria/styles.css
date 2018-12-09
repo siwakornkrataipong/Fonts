@@ -1,9 +1,9 @@
 
 @font-face {
   font-family: 'Cambria';
-  src: url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/cambria/Cambria.eot#iefix') format('embedded-opentype'),  
+  src: url('https://cdn.jsdelivr.net/gh/siwakornkrataipong/Fonts@master/cambria/Cambria.eot#iefix') format('embedded-opentype'),  
 		url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/cambria/Cambria.ttf')  format('truetype'), 
-		url('https://cdn.rawgit.com/siwakornkrataipong/Fonts/master/cambria/Cambria.svg#Cambria') format('svg');
+		url('https://cdn.jsdelivr.net/gh/siwakornkrataipong/Fonts@master/cambria/Cambria.svg#Cambria') format('svg');
   font-weight: normal;
   font-style: normal;
 }
